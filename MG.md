@@ -12,6 +12,14 @@ These are 1/100 Master Grade line of Gunpla kits. MG line started in 1995 and it
 ### Boxart:
 ![Hyaku Shiki](MG_Hyaku_Shiki_Ver._2.0.webp)
 
+### Sazabi Ver. Ka
+
+### Machine:
+![Sazabi](MSN-04_Sazabi_-_Front.webp)
+
+### Boxart:
+![Sazabi](MG_Sazabi_ver_KA_new_Boxart.webp)
+
 ## P-Bandai:
 
 ### Banshee Norn
