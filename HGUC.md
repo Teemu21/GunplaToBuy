@@ -30,3 +30,12 @@ These are 1/144 Gunpla kits about Mobile Suits in Universal Century timeline.
 
 ### Boxart:
 ![Zaku III Custom](HGUC_Zaku_III_Custom_29.webp)
+
+### Varguil
+
+### Machine:
+![Varguil](AMS-123X-VARGUIL.webp)
+
+### Boxart:
+![Varguil](HGUC_Varguil.webp)
+
