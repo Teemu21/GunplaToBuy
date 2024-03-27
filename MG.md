@@ -44,6 +44,14 @@ These are 1/100 Master Grade line of Gunpla kits. MG line started in 1995 and it
 ### Boxart:
 ![Psycho Zaku](Mg-psychozaku.webp)
 
+### ZZ Gundam Ver. Ka
+
+### Machine:
+![ZZ](Msz-010.webp)
+
+### Boxart:
+![ZZ](MG_ZZ_Gundam_Ver.Ka.webp)
+
 ## P-Bandai:
 
 ### Banshee Norn
