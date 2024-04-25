@@ -12,6 +12,14 @@ These are 1/144 Gunpla kits about Mobile Suits in Universal Century timeline.
 ### Boxart:
 ![Destiny Unit 1](HGUC_Blue_Destiny_Unit_1_Exam.webp)
 
+### Gaplant
+
+### Machine:
+![Gaplant](ORX-005_Gaplant_MS.webp)
+
+### Boxart:
+![Gaplant](Hguc-orx-005.webp)
+
 
 ## P-Bandai:
 
