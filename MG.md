@@ -76,6 +76,14 @@ These are 1/100 Master Grade line of Gunpla kits. MG line started in 1995 and it
 ### Boxart:
 ![F91](MG_F91_Gundam_Ver._2.0.webp)
 
+### Crossbone Gundam X-1 Ver. Ka
+
+### Machine:
+![X1](XM-X1_Crossbone_Gundam_X-1_Front.webp)
+
+### Boxart:
+![X1](Mg-xm-x1.webp)
+
 
 ## P-Bandai:
 
