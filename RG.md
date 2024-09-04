@@ -1,6 +1,6 @@
 # RG Kits
 
-These are 1/144 Master Grade line of Gunpla kits. RG line started in 2010 and it's still ongoing.
+These are 1/144 Real Grade line of Gunpla kits. RG line started in 2010 and it's still ongoing.
 
 ## Regular Release:  
 
