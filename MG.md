@@ -100,15 +100,21 @@ These are 1/100 Master Grade line of Gunpla kits. MG line started in 1995 and it
 ### Boxart:
 ![Qubeley Mk-II](Mg-amx-004mkii.webp)
 
+### Victory 2 Gundam Ver. Ka
+
+### Machine:
+
+![V2](LM314V21_Victory_2_Gundam.webp)
+
+### Boxart:
+
+![V2](MG_Victory_2_Gundam_Ver.Ka.webp)
 
 ## P-Bandai:
 
-### Banshee Norn
+### 
 
 ### Machine:
-![Banshee Norn](Rx-029.webp)
-
-![Banshee Norn](Banshee_Norn_-_NT-D_Mode.webp)
 
 ### Boxart:
-![Banshee Norn](P-babdai_babshee_norn-01.webp)
+
