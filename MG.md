@@ -112,9 +112,12 @@ These are 1/100 Master Grade line of Gunpla kits. MG line started in 1995 and it
 
 ## P-Bandai:
 
-### 
+### Hazel Custom
 
 ### Machine:
 
+![HC](Hazel_custom.webp)
+
 ### Boxart:
 
+![HC](MG-GundamTR1HazelCustom.webp)
