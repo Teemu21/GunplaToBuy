@@ -4,13 +4,13 @@ These are 1/144 Gunpla kits about Mobile Suits in Universal Century timeline.
 
 ## Regular Release:  
 
-### Gaplant
+### Gundam EX
 
 ### Machine:
-![Gaplant](ORX-005_Gaplant_MS.webp)
+![Gundam EX](Gundam_EX_29.webp)
 
 ### Boxart:
-![Gaplant](Hguc-orx-005.webp)
+![Gundam EX](HG_Gundam_EX_box.webp)
 
 
 ## P-Bandai:
