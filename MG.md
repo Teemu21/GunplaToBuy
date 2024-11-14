@@ -28,14 +28,6 @@ These are 1/100 Master Grade line of Gunpla kits. MG line started in 1995 and it
 ### Boxart:
 ![Full Armor Unicorn Gundam](Mg-full-armor-rx0-verka.webp)
 
-### Gundam GP02A
-
-### Machine:
-![GP02](Rx-78gp02a.webp)
-
-### Boxart:
-![GP02](Mg-rx78-gp02.webp)
-
 ### Psycho Zaku Ver. Ka
 
 ### Machine:
