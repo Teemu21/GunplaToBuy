@@ -22,12 +22,3 @@ These are 1/144 Gunpla kits about Mobile Suits in Universal Century timeline.
 
 ### Boxart:
 ![Gato's Rick Dom](RickDom-Gato.webp)
-
-### Varguil
-
-### Machine:
-![Varguil](AMS-123X-VARGUIL.webp)
-
-### Boxart:
-![Varguil](HGUC_Varguil.webp)
-

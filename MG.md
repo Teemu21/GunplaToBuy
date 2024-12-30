@@ -86,6 +86,14 @@ These are 1/100 Master Grade line of Gunpla kits. MG line started in 1995 and it
 
 ![V2](MG_Victory_2_Gundam_Ver.Ka.webp)
 
+### Gyan
+
+### Machine:
+![Gyan](YMS15_Gyan_-_Front.webp)
+
+### Boxart:
+![Gyan](YMS-15_Gyan_MG_boxart.webp)
+
 ## P-Bandai:
 
 ### Hazel Custom
