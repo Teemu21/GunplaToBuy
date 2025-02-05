@@ -94,6 +94,14 @@ These are 1/100 Master Grade line of Gunpla kits. MG line started in 1995 and it
 ### Boxart:
 ![Gyan](YMS-15_Gyan_MG_boxart.webp)
 
+### Full Armor ZZ Gundam
+
+### Machine:
+![Full Armor ZZ Gundam](Fa-010s.webp)
+
+### Boxart:
+![Full Armor ZZ  Gundam](Fa-010s-mg.webp)
+
 ## P-Bandai:
 
 ### Hazel Custom
@@ -105,3 +113,14 @@ These are 1/100 Master Grade line of Gunpla kits. MG line started in 1995 and it
 ### Boxart:
 
 ![HC](MG-GundamTR1HazelCustom.webp)
+
+### Red Zeta
+
+### Machine:
+
+![Red Zeta](Msz-006-p23c.webp)
+
+### Boxart:
+
+![Red Zeta](MG_Zeta_Gundam_III_P2_Type_Red_Zeta.webp)
+
