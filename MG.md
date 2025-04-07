@@ -60,22 +60,6 @@ These are 1/100 Master Grade line of Gunpla kits. MG line started in 1995 and it
 ### Boxart:
 ![X1](Mg-xm-x1.webp)
 
-### Char's Z'Gok Commander Type 
-
-### Machine:
-![Z'Gok](MSM-07S.JPG.webp)
-
-### Boxart:
-![Z'Gok](Mg-msm-07s-ca.webp)
-
-### Qubeley Mk-II
-
-### Machine:
-![Qubeley Mk-II](Amx-004-3.webp)
-
-### Boxart:
-![Qubeley Mk-II](Mg-amx-004mkii.webp)
-
 ### Victory 2 Gundam Ver. Ka
 
 ### Machine:
@@ -123,4 +107,14 @@ These are 1/100 Master Grade line of Gunpla kits. MG line started in 1995 and it
 ### Boxart:
 
 ![Red Zeta](MG_Zeta_Gundam_III_P2_Type_Red_Zeta.webp)
+
+### RX-0 Unicorn Gundam Perfectibility
+
+### Machine:
+
+![UniP](Rx-0-b.webp)
+
+### Boxart:
+
+![UniP](MG_Unicorn_Gundam_Perfectibility.webp)
 
